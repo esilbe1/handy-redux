@@ -7,7 +7,7 @@ options:
   developmentLanguage: en
 
 settings:
-  DEVELOPMENT_TEAM: 2D8ALY3LCL
+  DEVELOPMENT_TEAM: ""   # Set your Apple Developer Team ID here, or let Xcode auto-assign it
   CODE_SIGN_STYLE: Automatic
   SWIFT_VERSION: "6.0"
   SWIFT_STRICT_CONCURRENCY: complete
